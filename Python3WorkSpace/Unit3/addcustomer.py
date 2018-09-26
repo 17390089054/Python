@@ -1,0 +1,12 @@
+customers=['grandpa','grandma','cousin','sister']
+print("I have found a bigger table to maintain more customers:")
+customers.insert(0,"ant")
+customers.insert(2,"prince")
+customers.append("wife")
+print("Hello "+customers[0]+", Welcome to my party!")
+print("Hello "+customers[1]+", Welcome to my party!")
+print("Hello "+customers[2]+", Welcome to my party!")
+print("Hello "+customers[3]+", Welcome to my party!")
+print("Hello "+customers[4]+", Welcome to my party!")
+print("Hello "+customers[5]+", Welcome to my party!")
+print("Hello "+customers[6]+", Welcome to my party!")

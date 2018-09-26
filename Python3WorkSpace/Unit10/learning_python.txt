@@ -1,0 +1,4 @@
+In Python you can learn basic varibles
+In Python you can learn basic functions
+In Python you can learn basic dataset like list ,dictionary
+In Python you can learn class

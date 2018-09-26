@@ -59,6 +59,7 @@ def check_events(ai_settings,screen,status,sb,play_button,ship,aliens,bullets):
     #响应按键和鼠标事件
     for event in pygame.event.get():
         if event.type==pygame.QUIT:
+            pygame.quit()
             sys.exit()
         elif event.type==pygame.KEYDOWN:
             check_keydown_events(event,ai_settings,screen,ship,bullets)

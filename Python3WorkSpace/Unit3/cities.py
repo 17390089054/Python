@@ -1,0 +1,16 @@
+cities=['Beijing','Shanghai','Guangzhou','Shenzen','Hangzhou','London','NewYork','Sydney','Tokyo']
+print(cities)
+print(sorted(cities))
+print(cities)
+print(sorted(cities,reverse=True))
+print(cities)
+cities.reverse()
+print(cities)
+cities.reverse()
+print(cities)
+cities.sort()
+print(cities)
+cities.sort(reverse=True)
+print(cities)
+print(len(cities))
+
